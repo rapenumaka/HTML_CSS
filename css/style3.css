@@ -1,0 +1,20 @@
+p{
+    color:red;
+    background-color: azure;
+}
+
+h4{
+    color:mediumblue;
+}
+
+h1,h3,h2 {
+    color: chocolate;
+}
+
+
+/* Targeting the p tage inside the div tag in selectors.html****/
+
+div p {
+    color:crimson;
+    background-color:darkgreen;
+}
